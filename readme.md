@@ -1,4 +1,4 @@
-# Microservices-sketch - Building Microservices with Node, Docker and Nginx
+# Microservices-sketch
 
 Microservices - também conhecido como a arquitetura de microsserviço - é um estilo de arquitetura que estrutura um aplicativo como uma coleção de serviços que são
 ```sh
